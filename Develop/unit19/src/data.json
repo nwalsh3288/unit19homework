@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Jane Doe",
+        "email": "janedoe@gmail.com",
+        "favoriteColor": "blue"
+    },
+    {
+        "name": "Joe Smith",
+        "email": "joesmith@gmail.com",
+        "favoriteColor": "red"
+    },
+    {
+        "name": "Nicole Walsh",
+        "email": "nicole@gmail.com",
+        "favoriteColor": "purple"
+    },
+    {
+        "name": "Chelsea Walsh",
+        "email": "chelsdog@gmail.com",
+        "favoriteColor": "pink"
+    },
+    {
+        "name": "Tobias Walsh",
+        "email": "tobiasdog@gmail.com",
+        "favoriteColor": "green"
+    }
+
+]
