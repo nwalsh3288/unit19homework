@@ -1,28 +1,51 @@
 [
     {
-        "name": "Jane Doe",
+        "name": "jane doe",
         "email": "janedoe@gmail.com",
         "favoriteColor": "blue"
     },
     {
-        "name": "Joe Smith",
+        "name": "joe smith",
         "email": "joesmith@gmail.com",
         "favoriteColor": "red"
     },
     {
-        "name": "Nicole Walsh",
+        "name": "nicole walsh",
         "email": "nicole@gmail.com",
         "favoriteColor": "purple"
     },
     {
-        "name": "Chelsea Walsh",
+        "name": "chelsea walsh",
         "email": "chelsdog@gmail.com",
         "favoriteColor": "pink"
     },
     {
-        "name": "Tobias Walsh",
+        "name": "tobias walsh",
         "email": "tobiasdog@gmail.com",
         "favoriteColor": "green"
+    },
+    {
+        "name": "steven dizon",
+        "email": "steven24@gmail.com",
+        "favoriteColor": "yellow"
+    },
+    {
+        "name": "michelle cunningham",
+        "email": "shelly.cunningham@gmail.com",
+        "favoriteColor": "teal"
+    },
+    {
+        "name": "katlyn fisher",
+        "email": "kfish@yahoo.com",
+        "favoriteColor": "green"
+    },
+    {
+        "name": "john david hernandez",
+        "email": "bestcoderever@yahoo.com",
+        "favoriteColor": "charcol grey"
     }
+
+
+
 
 ]
